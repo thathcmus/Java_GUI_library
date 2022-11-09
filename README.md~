@@ -1,5 +1,6 @@
-Demo: Để coi và nhận xét sửa đổi bổ sung, chắc sẽ bị chặc chém này nọ lắm
-Source: GUI: java và form. Dùng NetBeans IDE 12.6 cùng JDK chỉ 1.8
-SQL: tải về XXAMP và dùng nó vào phpadmin để import file .sql trong đó vô.
-...
-Thật...
+- Demo: Để coi và nhận xét sửa đổi bổ sung, chắc sẽ bị chặc chém này nọ lắm
+  Có thể coi ở đây: https://bit.ly/3TnoCBB
+- Source: GUI: java và form. Dùng NetBeans IDE 12.6 cùng JDK chỉ 1.8
+- SQL: tải về XAMPP và dùng nó vào phpadmin để import file .sql trong đó vô.
+
+<~>
